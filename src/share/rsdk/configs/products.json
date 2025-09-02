@@ -375,7 +375,7 @@
         "soc": "a733",
         "sector_size": [512, 4096],
         "supported_suite": ["bullseye"],
-        "supported_edition": ["kde"]
+        "supported_edition": ["xfce", "cli"]
     },
     {
         "product": "radxa-cubie-a7z",

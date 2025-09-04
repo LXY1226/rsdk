@@ -374,8 +374,8 @@
         "product_full_name": "Radxa Cubie A7A",
         "soc": "a733",
         "sector_size": [512, 4096],
-        "supported_suite": ["bullseye"],
-        "supported_edition": ["xfce", "cli"]
+        "supported_suite": ["bookworm"],
+        "supported_edition": ["cli"]
     },
     {
         "product": "radxa-cubie-a7z",
